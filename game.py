@@ -33,7 +33,8 @@ class SolitaireGame:
     def draw_from_stock(self):
         # If stock is empty
         if len(self.stock.cards) == 0:
-            self.stock.cards = self.waste.cards[::-1]  # reverse waste
+            # Preserve the original order by not reversing
+            self.stock.cards = self.waste.cards.copy()
             for card in self.stock.cards:
                 card.face_up = False
             self.waste.cards = []
@@ -67,12 +68,24 @@ class SolitaireGame:
 
     def can_place_tableau(self, card, dest_pile):
         if not dest_pile.cards:  # empty pile
-            return card.rank == 'king'
+            return True  # Allow any card on empty tableau piles
         top_card = dest_pile.cards[-1]
         return (
             self.is_alternate_color(card, top_card)
             and self.is_one_rank_lower(card, top_card)
         )
+
+    def can_place_tableau_sequence(self, cards, dest_pile):
+        """Check if a sequence of cards can be placed on a tableau pile"""
+        if not cards:
+            return False
+        
+        # For empty piles, allow any sequence
+        if not dest_pile.cards:
+            return True
+        
+        # For non-empty piles, check if the first card can be placed on the top card
+        return self.can_place_tableau(cards[0], dest_pile)
 
     def is_alternate_color(self, card1, card2):
         red = {'hearts', 'diamonds'}
