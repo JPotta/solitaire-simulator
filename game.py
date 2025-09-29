@@ -31,16 +31,18 @@ class SolitaireGame:
 
     # Drawing from stock pile
     def draw_from_stock(self):
-        # If stock is empty
         if len(self.stock.cards) == 0:
-            # Preserve the original order by not reversing
-            self.stock.cards = self.waste.cards.copy()
-            for card in self.stock.cards:
-                card.face_up = False
-            self.waste.cards = []
-        # If stock has cards
-        else:
-            card = self.stock.draw()[0]
+            if len(self.waste.cards) > 0:
+                self.stock.cards = self.waste.cards.copy()
+                for card in self.stock.cards:
+                    card.face_up = False
+                self.waste.cards = []
+            else:
+                # Stock and Waste are both empty - nothing to do
+                return
+
+        if len(self.stock.cards) > 0:
+            card = self.stock.draw()[0] 
             card.flip()
             self.waste.add(card)
 
