@@ -29,22 +29,42 @@ class SolitaireGame:
             card.face_up = False
         self.waste = Pile()
 
+        # Initialize pass counter and loss flag
+        self.stock_passes = 0
+        self.max_passes_reached = False
+
     # Drawing from stock pile
     def draw_from_stock(self):
+        # If stock is empty
         if len(self.stock.cards) == 0:
+            
+            # Check if the maximum number of passes (3) has been reached
+            if self.stock_passes >= 3:
+                self.max_passes_reached = True
+                return False # Cannot draw anymore
+
             if len(self.waste.cards) > 0:
                 self.stock.cards = self.waste.cards.copy()
                 for card in self.stock.cards:
                     card.face_up = False
                 self.waste.cards = []
+                # Increment the pass counter when recycling
+                self.stock_passes += 1
             else:
                 # Stock and Waste are both empty - nothing to do
-                return
+                return False # Changed from 'return' to 'return False' for clarity
 
         if len(self.stock.cards) > 0:
+            # card = self.stock.draw()[0] # Old line
+            # card.flip()                  # Old line
+            # self.waste.add(card)        # Old line
             card = self.stock.draw()[0] 
             card.flip()
             self.waste.add(card)
+            return True # Indicate a successful draw
+        
+        # Return False if we reached max passes and failed to draw
+        return False
 
 
     def move_tableau_to_tableau(self, src_index, dest_index, num_cards):
@@ -67,6 +87,12 @@ class SolitaireGame:
 
     def is_won(self):
         return all(len(f.cards) == 13 for f in self.foundations)
+
+    def is_lost(self):
+        """Returns True if the maximum number of passes (3) has been reached."""
+        # Note: The simulator script must also check for "game blocked" loss state.
+        return self.max_passes_reached
+
 
     def can_place_tableau(self, card, dest_pile):
         if not dest_pile.cards:  # empty pile
