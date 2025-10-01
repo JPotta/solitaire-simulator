@@ -95,8 +95,9 @@ class SolitaireGame:
 
 
     def can_place_tableau(self, card, dest_pile):
-        if not dest_pile.cards:  # empty pile
-            return True  # Allow any card on empty tableau piles
+        # Only Kings may be placed on empty tableau piles
+        if not dest_pile.cards:
+            return card.rank == 'king'
         top_card = dest_pile.cards[-1]
         return (
             self.is_alternate_color(card, top_card)
@@ -104,15 +105,25 @@ class SolitaireGame:
         )
 
     def can_place_tableau_sequence(self, cards, dest_pile):
-        """Check if a sequence of cards can be placed on a tableau pile"""
+        """Check if a sequence of cards can be placed on a tableau pile.
+        The sequence must be internally valid (descending ranks, alternating colors),
+        and must respect tableau destination rules (King-only to empty).
+        """
         if not cards:
             return False
-        
-        # For empty piles, allow any sequence
+
+        # Validate internal sequence: top to bottom must descend by one and alternate color
+        for idx in range(len(cards) - 1):
+            top_card = cards[idx]
+            below_card = cards[idx + 1]
+            if not (self.is_alternate_color(top_card, below_card) and self.is_one_rank_lower(below_card, top_card)):
+                return False
+
+        # Destination rules
         if not dest_pile.cards:
-            return True
-        
-        # For non-empty piles, check if the first card can be placed on the top card
+            # Only a sequence starting with King may be moved to an empty pile
+            return cards[0].rank == 'king'
+
         return self.can_place_tableau(cards[0], dest_pile)
 
     def is_alternate_color(self, card1, card2):
