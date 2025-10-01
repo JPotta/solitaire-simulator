@@ -64,9 +64,13 @@ class SolitaireSimulator:
     def run_simulation(self):
         """Runs the game using a greedy strategy until win, loss, or no moves."""
         print("--- Starting Solitaire Simulation ---")
+        max_moves = 2000
         
         # START OF CHANGES: Simplifying the loop structure
         while not self.game.is_won() and not self.game.is_lost():
+            if self.moves_made >= max_moves:
+                print(f"\n❌ LOSS: Move cap reached ({max_moves}). Likely cycle detected.")
+                break
             
             non_draw_move_made = False
             

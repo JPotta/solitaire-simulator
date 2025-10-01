@@ -1,0 +1,2732 @@
+--- Starting Solitaire Simulation ---
+[001] Stock Draw.
+[002] Stock Draw.
+[003] Stock Draw.
+[004] Waste (ace) -> Foundation 0
+[005] Stock Draw.
+[006] Waste (3) -> Tableau 3
+[007] Stock Draw.
+[008] Stock Draw.
+[009] Waste (5) -> Tableau 4
+[010] Tableau 3 -> Tableau 4 (Sequence of 2)
+[011] Tableau 3 -> Tableau 5 (Sequence of 1)
+[012] Tableau 4 -> Tableau 5 (Sequence of 4)
+[013] Tableau 4 -> Tableau 0 (Sequence of 1)
+[BLOCKED] Tableau 0 -> Tableau 4: Preventing direct cycle reversal.
+[014] Tableau 0 -> Tableau 1 (Sequence of 1)
+[BLOCKED] Tableau 1 -> Tableau 0: Preventing direct cycle reversal.
+[BLOCKED] Tableau 1 -> Tableau 0: Preventing direct cycle reversal.
+[015] Tableau 4 -> Tableau 3 (Sequence of 1)
+[016] Tableau 1 -> Tableau 0 (Sequence of 1)
+[BLOCKED] Tableau 0 -> Tableau 1: Preventing direct cycle reversal.
+[BLOCKED] Tableau 0 -> Tableau 1: Preventing direct cycle reversal.
+[017] Tableau 2 -> Tableau 4 (Sequence of 1)
+[018] Tableau 0 -> Tableau 1 (Sequence of 1)
+[BLOCKED] Tableau 1 -> Tableau 0: Preventing direct cycle reversal.
+[BLOCKED] Tableau 1 -> Tableau 0: Preventing direct cycle reversal.
+[019] Tableau 2 -> Tableau 0 (Sequence of 1)
+[BLOCKED] Tableau 0 -> Tableau 2: Preventing direct cycle reversal.
+[BLOCKED] Tableau 0 -> Tableau 2: Preventing direct cycle reversal.
+[020] Tableau 5 -> Tableau 3 (Sequence of 6)
+[BLOCKED] Tableau 3 -> Tableau 5: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 5: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 5: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 5: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 5: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 5: Preventing direct cycle reversal.
+[021] Tableau 3 -> Tableau 6 (Sequence of 3)
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[022] Stock Draw.
+[023] Tableau 6 -> Tableau 3 (Sequence of 3)
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[024] Stock Draw.
+[025] Tableau 3 -> Tableau 6 (Sequence of 3)
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[026] Stock Draw.
+[027] Tableau 6 -> Tableau 3 (Sequence of 3)
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[028] Stock Draw.
+[029] Tableau 3 -> Tableau 6 (Sequence of 3)
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[030] Waste (8) -> Tableau 5
+[031] Tableau 6 -> Tableau 3 (Sequence of 3)
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[032] Stock Draw.
+[033] Tableau 3 -> Tableau 6 (Sequence of 3)
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[034] Stock Draw.
+[035] Waste (ace) -> Foundation 1
+[036] Tableau 6 -> Tableau 3 (Sequence of 3)
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[037] Stock Draw.
+[038] Tableau 3 -> Tableau 6 (Sequence of 3)
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[BLOCKED] Tableau 6 -> Tableau 3: Preventing direct cycle reversal.
+[039] Stock Draw.
+[040] Tableau 6 -> Tableau 3 (Sequence of 3)
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[BLOCKED] Tableau 3 -> Tableau 6: Preventing direct cycle reversal.
+[041] Waste (7) -> Tableau 5
+[042] Tableau 0 -> Tableau 5 (Sequence of 2)
+[043] Tableau 3 -> Tableau 6 (Sequence of 3)
+[044] Tableau 4 -> Tableau 0 (Sequence of 2)
+[BLOCKED] Tableau 0 -> Tableau 4: Preventing direct cycle reversal.
+[BLOCKED] Tableau 0 -> Tableau 4: Preventing direct cycle reversal.
+[045] Tableau 5 -> Tableau 4 (Sequence of 5)
+[046] Tableau 4 -> Tableau 2 (Sequence of 6)
+[047] Tableau 0 -> Tableau 4 (Sequence of 2)
+[048] Tableau 2 -> Tableau 4 (Sequence of 7)
+[049] Tableau 4 -> Tableau 0 (Sequence of 9)
+[050] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[051] Tableau 2 -> Tableau 4 (Sequence of 9)
+[052] Tableau 4 -> Tableau 0 (Sequence of 9)
+[053] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[054] Tableau 2 -> Tableau 4 (Sequence of 9)
+[055] Tableau 4 -> Tableau 0 (Sequence of 9)
+[056] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[057] Tableau 2 -> Tableau 4 (Sequence of 9)
+[058] Tableau 4 -> Tableau 0 (Sequence of 9)
+[059] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[060] Tableau 2 -> Tableau 4 (Sequence of 9)
+[061] Tableau 4 -> Tableau 0 (Sequence of 9)
+[062] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[063] Tableau 2 -> Tableau 4 (Sequence of 9)
+[064] Tableau 4 -> Tableau 0 (Sequence of 9)
+[065] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[066] Tableau 2 -> Tableau 4 (Sequence of 9)
+[067] Tableau 4 -> Tableau 0 (Sequence of 9)
+[068] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[069] Tableau 2 -> Tableau 4 (Sequence of 9)
+[070] Tableau 4 -> Tableau 0 (Sequence of 9)
+[071] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[072] Tableau 2 -> Tableau 4 (Sequence of 9)
+[073] Tableau 4 -> Tableau 0 (Sequence of 9)
+[074] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[075] Tableau 2 -> Tableau 4 (Sequence of 9)
+[076] Tableau 4 -> Tableau 0 (Sequence of 9)
+[077] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[078] Tableau 2 -> Tableau 4 (Sequence of 9)
+[079] Tableau 4 -> Tableau 0 (Sequence of 9)
+[080] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[081] Tableau 2 -> Tableau 4 (Sequence of 9)
+[082] Tableau 4 -> Tableau 0 (Sequence of 9)
+[083] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[084] Tableau 2 -> Tableau 4 (Sequence of 9)
+[085] Tableau 4 -> Tableau 0 (Sequence of 9)
+[086] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[087] Tableau 2 -> Tableau 4 (Sequence of 9)
+[088] Tableau 4 -> Tableau 0 (Sequence of 9)
+[089] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[090] Tableau 2 -> Tableau 4 (Sequence of 9)
+[091] Tableau 4 -> Tableau 0 (Sequence of 9)
+[092] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[093] Tableau 2 -> Tableau 4 (Sequence of 9)
+[094] Tableau 4 -> Tableau 0 (Sequence of 9)
+[095] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[096] Tableau 2 -> Tableau 4 (Sequence of 9)
+[097] Tableau 4 -> Tableau 0 (Sequence of 9)
+[098] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[099] Tableau 2 -> Tableau 4 (Sequence of 9)
+[100] Tableau 4 -> Tableau 0 (Sequence of 9)
+[101] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[102] Tableau 2 -> Tableau 4 (Sequence of 9)
+[103] Tableau 4 -> Tableau 0 (Sequence of 9)
+[104] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[105] Tableau 2 -> Tableau 4 (Sequence of 9)
+[106] Tableau 4 -> Tableau 0 (Sequence of 9)
+[107] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[108] Tableau 2 -> Tableau 4 (Sequence of 9)
+[109] Tableau 4 -> Tableau 0 (Sequence of 9)
+[110] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[111] Tableau 2 -> Tableau 4 (Sequence of 9)
+[112] Tableau 4 -> Tableau 0 (Sequence of 9)
+[113] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[114] Tableau 2 -> Tableau 4 (Sequence of 9)
+[115] Tableau 4 -> Tableau 0 (Sequence of 9)
+[116] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[117] Tableau 2 -> Tableau 4 (Sequence of 9)
+[118] Tableau 4 -> Tableau 0 (Sequence of 9)
+[119] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[120] Tableau 2 -> Tableau 4 (Sequence of 9)
+[121] Tableau 4 -> Tableau 0 (Sequence of 9)
+[122] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[123] Tableau 2 -> Tableau 4 (Sequence of 9)
+[124] Tableau 4 -> Tableau 0 (Sequence of 9)
+[125] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[126] Tableau 2 -> Tableau 4 (Sequence of 9)
+[127] Tableau 4 -> Tableau 0 (Sequence of 9)
+[128] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[129] Tableau 2 -> Tableau 4 (Sequence of 9)
+[130] Tableau 4 -> Tableau 0 (Sequence of 9)
+[131] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[132] Tableau 2 -> Tableau 4 (Sequence of 9)
+[133] Tableau 4 -> Tableau 0 (Sequence of 9)
+[134] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[135] Tableau 2 -> Tableau 4 (Sequence of 9)
+[136] Tableau 4 -> Tableau 0 (Sequence of 9)
+[137] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[138] Tableau 2 -> Tableau 4 (Sequence of 9)
+[139] Tableau 4 -> Tableau 0 (Sequence of 9)
+[140] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[141] Tableau 2 -> Tableau 4 (Sequence of 9)
+[142] Tableau 4 -> Tableau 0 (Sequence of 9)
+[143] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[144] Tableau 2 -> Tableau 4 (Sequence of 9)
+[145] Tableau 4 -> Tableau 0 (Sequence of 9)
+[146] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[147] Tableau 2 -> Tableau 4 (Sequence of 9)
+[148] Tableau 4 -> Tableau 0 (Sequence of 9)
+[149] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[150] Tableau 2 -> Tableau 4 (Sequence of 9)
+[151] Tableau 4 -> Tableau 0 (Sequence of 9)
+[152] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[153] Tableau 2 -> Tableau 4 (Sequence of 9)
+[154] Tableau 4 -> Tableau 0 (Sequence of 9)
+[155] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[156] Tableau 2 -> Tableau 4 (Sequence of 9)
+[157] Tableau 4 -> Tableau 0 (Sequence of 9)
+[158] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[159] Tableau 2 -> Tableau 4 (Sequence of 9)
+[160] Tableau 4 -> Tableau 0 (Sequence of 9)
+[161] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[162] Tableau 2 -> Tableau 4 (Sequence of 9)
+[163] Tableau 4 -> Tableau 0 (Sequence of 9)
+[164] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[165] Tableau 2 -> Tableau 4 (Sequence of 9)
+[166] Tableau 4 -> Tableau 0 (Sequence of 9)
+[167] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[168] Tableau 2 -> Tableau 4 (Sequence of 9)
+[169] Tableau 4 -> Tableau 0 (Sequence of 9)
+[170] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[171] Tableau 2 -> Tableau 4 (Sequence of 9)
+[172] Tableau 4 -> Tableau 0 (Sequence of 9)
+[173] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[174] Tableau 2 -> Tableau 4 (Sequence of 9)
+[175] Tableau 4 -> Tableau 0 (Sequence of 9)
+[176] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[177] Tableau 2 -> Tableau 4 (Sequence of 9)
+[178] Tableau 4 -> Tableau 0 (Sequence of 9)
+[179] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[180] Tableau 2 -> Tableau 4 (Sequence of 9)
+[181] Tableau 4 -> Tableau 0 (Sequence of 9)
+[182] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[183] Tableau 2 -> Tableau 4 (Sequence of 9)
+[184] Tableau 4 -> Tableau 0 (Sequence of 9)
+[185] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[186] Tableau 2 -> Tableau 4 (Sequence of 9)
+[187] Tableau 4 -> Tableau 0 (Sequence of 9)
+[188] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[189] Tableau 2 -> Tableau 4 (Sequence of 9)
+[190] Tableau 4 -> Tableau 0 (Sequence of 9)
+[191] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[192] Tableau 2 -> Tableau 4 (Sequence of 9)
+[193] Tableau 4 -> Tableau 0 (Sequence of 9)
+[194] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[195] Tableau 2 -> Tableau 4 (Sequence of 9)
+[196] Tableau 4 -> Tableau 0 (Sequence of 9)
+[197] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[198] Tableau 2 -> Tableau 4 (Sequence of 9)
+[199] Tableau 4 -> Tableau 0 (Sequence of 9)
+[200] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[201] Tableau 2 -> Tableau 4 (Sequence of 9)
+[202] Tableau 4 -> Tableau 0 (Sequence of 9)
+[203] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[204] Tableau 2 -> Tableau 4 (Sequence of 9)
+[205] Tableau 4 -> Tableau 0 (Sequence of 9)
+[206] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[207] Tableau 2 -> Tableau 4 (Sequence of 9)
+[208] Tableau 4 -> Tableau 0 (Sequence of 9)
+[209] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[210] Tableau 2 -> Tableau 4 (Sequence of 9)
+[211] Tableau 4 -> Tableau 0 (Sequence of 9)
+[212] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[213] Tableau 2 -> Tableau 4 (Sequence of 9)
+[214] Tableau 4 -> Tableau 0 (Sequence of 9)
+[215] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[216] Tableau 2 -> Tableau 4 (Sequence of 9)
+[217] Tableau 4 -> Tableau 0 (Sequence of 9)
+[218] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[219] Tableau 2 -> Tableau 4 (Sequence of 9)
+[220] Tableau 4 -> Tableau 0 (Sequence of 9)
+[221] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[222] Tableau 2 -> Tableau 4 (Sequence of 9)
+[223] Tableau 4 -> Tableau 0 (Sequence of 9)
+[224] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[225] Tableau 2 -> Tableau 4 (Sequence of 9)
+[226] Tableau 4 -> Tableau 0 (Sequence of 9)
+[227] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[228] Tableau 2 -> Tableau 4 (Sequence of 9)
+[229] Tableau 4 -> Tableau 0 (Sequence of 9)
+[230] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[231] Tableau 2 -> Tableau 4 (Sequence of 9)
+[232] Tableau 4 -> Tableau 0 (Sequence of 9)
+[233] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[234] Tableau 2 -> Tableau 4 (Sequence of 9)
+[235] Tableau 4 -> Tableau 0 (Sequence of 9)
+[236] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[237] Tableau 2 -> Tableau 4 (Sequence of 9)
+[238] Tableau 4 -> Tableau 0 (Sequence of 9)
+[239] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[240] Tableau 2 -> Tableau 4 (Sequence of 9)
+[241] Tableau 4 -> Tableau 0 (Sequence of 9)
+[242] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[243] Tableau 2 -> Tableau 4 (Sequence of 9)
+[244] Tableau 4 -> Tableau 0 (Sequence of 9)
+[245] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[246] Tableau 2 -> Tableau 4 (Sequence of 9)
+[247] Tableau 4 -> Tableau 0 (Sequence of 9)
+[248] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[249] Tableau 2 -> Tableau 4 (Sequence of 9)
+[250] Tableau 4 -> Tableau 0 (Sequence of 9)
+[251] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[252] Tableau 2 -> Tableau 4 (Sequence of 9)
+[253] Tableau 4 -> Tableau 0 (Sequence of 9)
+[254] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[255] Tableau 2 -> Tableau 4 (Sequence of 9)
+[256] Tableau 4 -> Tableau 0 (Sequence of 9)
+[257] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[258] Tableau 2 -> Tableau 4 (Sequence of 9)
+[259] Tableau 4 -> Tableau 0 (Sequence of 9)
+[260] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[261] Tableau 2 -> Tableau 4 (Sequence of 9)
+[262] Tableau 4 -> Tableau 0 (Sequence of 9)
+[263] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[264] Tableau 2 -> Tableau 4 (Sequence of 9)
+[265] Tableau 4 -> Tableau 0 (Sequence of 9)
+[266] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[267] Tableau 2 -> Tableau 4 (Sequence of 9)
+[268] Tableau 4 -> Tableau 0 (Sequence of 9)
+[269] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[270] Tableau 2 -> Tableau 4 (Sequence of 9)
+[271] Tableau 4 -> Tableau 0 (Sequence of 9)
+[272] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[273] Tableau 2 -> Tableau 4 (Sequence of 9)
+[274] Tableau 4 -> Tableau 0 (Sequence of 9)
+[275] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[276] Tableau 2 -> Tableau 4 (Sequence of 9)
+[277] Tableau 4 -> Tableau 0 (Sequence of 9)
+[278] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[279] Tableau 2 -> Tableau 4 (Sequence of 9)
+[280] Tableau 4 -> Tableau 0 (Sequence of 9)
+[281] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[282] Tableau 2 -> Tableau 4 (Sequence of 9)
+[283] Tableau 4 -> Tableau 0 (Sequence of 9)
+[284] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[285] Tableau 2 -> Tableau 4 (Sequence of 9)
+[286] Tableau 4 -> Tableau 0 (Sequence of 9)
+[287] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[288] Tableau 2 -> Tableau 4 (Sequence of 9)
+[289] Tableau 4 -> Tableau 0 (Sequence of 9)
+[290] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[291] Tableau 2 -> Tableau 4 (Sequence of 9)
+[292] Tableau 4 -> Tableau 0 (Sequence of 9)
+[293] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[294] Tableau 2 -> Tableau 4 (Sequence of 9)
+[295] Tableau 4 -> Tableau 0 (Sequence of 9)
+[296] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[297] Tableau 2 -> Tableau 4 (Sequence of 9)
+[298] Tableau 4 -> Tableau 0 (Sequence of 9)
+[299] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[300] Tableau 2 -> Tableau 4 (Sequence of 9)
+[301] Tableau 4 -> Tableau 0 (Sequence of 9)
+[302] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[303] Tableau 2 -> Tableau 4 (Sequence of 9)
+[304] Tableau 4 -> Tableau 0 (Sequence of 9)
+[305] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[306] Tableau 2 -> Tableau 4 (Sequence of 9)
+[307] Tableau 4 -> Tableau 0 (Sequence of 9)
+[308] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[309] Tableau 2 -> Tableau 4 (Sequence of 9)
+[310] Tableau 4 -> Tableau 0 (Sequence of 9)
+[311] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[312] Tableau 2 -> Tableau 4 (Sequence of 9)
+[313] Tableau 4 -> Tableau 0 (Sequence of 9)
+[314] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[315] Tableau 2 -> Tableau 4 (Sequence of 9)
+[316] Tableau 4 -> Tableau 0 (Sequence of 9)
+[317] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[318] Tableau 2 -> Tableau 4 (Sequence of 9)
+[319] Tableau 4 -> Tableau 0 (Sequence of 9)
+[320] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[321] Tableau 2 -> Tableau 4 (Sequence of 9)
+[322] Tableau 4 -> Tableau 0 (Sequence of 9)
+[323] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[324] Tableau 2 -> Tableau 4 (Sequence of 9)
+[325] Tableau 4 -> Tableau 0 (Sequence of 9)
+[326] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[327] Tableau 2 -> Tableau 4 (Sequence of 9)
+[328] Tableau 4 -> Tableau 0 (Sequence of 9)
+[329] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[330] Tableau 2 -> Tableau 4 (Sequence of 9)
+[331] Tableau 4 -> Tableau 0 (Sequence of 9)
+[332] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[333] Tableau 2 -> Tableau 4 (Sequence of 9)
+[334] Tableau 4 -> Tableau 0 (Sequence of 9)
+[335] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[336] Tableau 2 -> Tableau 4 (Sequence of 9)
+[337] Tableau 4 -> Tableau 0 (Sequence of 9)
+[338] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[339] Tableau 2 -> Tableau 4 (Sequence of 9)
+[340] Tableau 4 -> Tableau 0 (Sequence of 9)
+[341] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[342] Tableau 2 -> Tableau 4 (Sequence of 9)
+[343] Tableau 4 -> Tableau 0 (Sequence of 9)
+[344] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[345] Tableau 2 -> Tableau 4 (Sequence of 9)
+[346] Tableau 4 -> Tableau 0 (Sequence of 9)
+[347] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[348] Tableau 2 -> Tableau 4 (Sequence of 9)
+[349] Tableau 4 -> Tableau 0 (Sequence of 9)
+[350] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[351] Tableau 2 -> Tableau 4 (Sequence of 9)
+[352] Tableau 4 -> Tableau 0 (Sequence of 9)
+[353] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[354] Tableau 2 -> Tableau 4 (Sequence of 9)
+[355] Tableau 4 -> Tableau 0 (Sequence of 9)
+[356] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[357] Tableau 2 -> Tableau 4 (Sequence of 9)
+[358] Tableau 4 -> Tableau 0 (Sequence of 9)
+[359] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[360] Tableau 2 -> Tableau 4 (Sequence of 9)
+[361] Tableau 4 -> Tableau 0 (Sequence of 9)
+[362] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[363] Tableau 2 -> Tableau 4 (Sequence of 9)
+[364] Tableau 4 -> Tableau 0 (Sequence of 9)
+[365] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[366] Tableau 2 -> Tableau 4 (Sequence of 9)
+[367] Tableau 4 -> Tableau 0 (Sequence of 9)
+[368] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[369] Tableau 2 -> Tableau 4 (Sequence of 9)
+[370] Tableau 4 -> Tableau 0 (Sequence of 9)
+[371] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[372] Tableau 2 -> Tableau 4 (Sequence of 9)
+[373] Tableau 4 -> Tableau 0 (Sequence of 9)
+[374] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[375] Tableau 2 -> Tableau 4 (Sequence of 9)
+[376] Tableau 4 -> Tableau 0 (Sequence of 9)
+[377] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[378] Tableau 2 -> Tableau 4 (Sequence of 9)
+[379] Tableau 4 -> Tableau 0 (Sequence of 9)
+[380] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[381] Tableau 2 -> Tableau 4 (Sequence of 9)
+[382] Tableau 4 -> Tableau 0 (Sequence of 9)
+[383] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[384] Tableau 2 -> Tableau 4 (Sequence of 9)
+[385] Tableau 4 -> Tableau 0 (Sequence of 9)
+[386] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[387] Tableau 2 -> Tableau 4 (Sequence of 9)
+[388] Tableau 4 -> Tableau 0 (Sequence of 9)
+[389] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[390] Tableau 2 -> Tableau 4 (Sequence of 9)
+[391] Tableau 4 -> Tableau 0 (Sequence of 9)
+[392] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[393] Tableau 2 -> Tableau 4 (Sequence of 9)
+[394] Tableau 4 -> Tableau 0 (Sequence of 9)
+[395] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[396] Tableau 2 -> Tableau 4 (Sequence of 9)
+[397] Tableau 4 -> Tableau 0 (Sequence of 9)
+[398] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[399] Tableau 2 -> Tableau 4 (Sequence of 9)
+[400] Tableau 4 -> Tableau 0 (Sequence of 9)
+[401] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[402] Tableau 2 -> Tableau 4 (Sequence of 9)
+[403] Tableau 4 -> Tableau 0 (Sequence of 9)
+[404] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[405] Tableau 2 -> Tableau 4 (Sequence of 9)
+[406] Tableau 4 -> Tableau 0 (Sequence of 9)
+[407] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[408] Tableau 2 -> Tableau 4 (Sequence of 9)
+[409] Tableau 4 -> Tableau 0 (Sequence of 9)
+[410] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[411] Tableau 2 -> Tableau 4 (Sequence of 9)
+[412] Tableau 4 -> Tableau 0 (Sequence of 9)
+[413] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[414] Tableau 2 -> Tableau 4 (Sequence of 9)
+[415] Tableau 4 -> Tableau 0 (Sequence of 9)
+[416] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[417] Tableau 2 -> Tableau 4 (Sequence of 9)
+[418] Tableau 4 -> Tableau 0 (Sequence of 9)
+[419] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[420] Tableau 2 -> Tableau 4 (Sequence of 9)
+[421] Tableau 4 -> Tableau 0 (Sequence of 9)
+[422] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[423] Tableau 2 -> Tableau 4 (Sequence of 9)
+[424] Tableau 4 -> Tableau 0 (Sequence of 9)
+[425] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[426] Tableau 2 -> Tableau 4 (Sequence of 9)
+[427] Tableau 4 -> Tableau 0 (Sequence of 9)
+[428] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[429] Tableau 2 -> Tableau 4 (Sequence of 9)
+[430] Tableau 4 -> Tableau 0 (Sequence of 9)
+[431] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[432] Tableau 2 -> Tableau 4 (Sequence of 9)
+[433] Tableau 4 -> Tableau 0 (Sequence of 9)
+[434] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[435] Tableau 2 -> Tableau 4 (Sequence of 9)
+[436] Tableau 4 -> Tableau 0 (Sequence of 9)
+[437] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[438] Tableau 2 -> Tableau 4 (Sequence of 9)
+[439] Tableau 4 -> Tableau 0 (Sequence of 9)
+[440] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[441] Tableau 2 -> Tableau 4 (Sequence of 9)
+[442] Tableau 4 -> Tableau 0 (Sequence of 9)
+[443] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[444] Tableau 2 -> Tableau 4 (Sequence of 9)
+[445] Tableau 4 -> Tableau 0 (Sequence of 9)
+[446] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[447] Tableau 2 -> Tableau 4 (Sequence of 9)
+[448] Tableau 4 -> Tableau 0 (Sequence of 9)
+[449] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[450] Tableau 2 -> Tableau 4 (Sequence of 9)
+[451] Tableau 4 -> Tableau 0 (Sequence of 9)
+[452] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[453] Tableau 2 -> Tableau 4 (Sequence of 9)
+[454] Tableau 4 -> Tableau 0 (Sequence of 9)
+[455] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[456] Tableau 2 -> Tableau 4 (Sequence of 9)
+[457] Tableau 4 -> Tableau 0 (Sequence of 9)
+[458] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[459] Tableau 2 -> Tableau 4 (Sequence of 9)
+[460] Tableau 4 -> Tableau 0 (Sequence of 9)
+[461] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[462] Tableau 2 -> Tableau 4 (Sequence of 9)
+[463] Tableau 4 -> Tableau 0 (Sequence of 9)
+[464] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[465] Tableau 2 -> Tableau 4 (Sequence of 9)
+[466] Tableau 4 -> Tableau 0 (Sequence of 9)
+[467] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[468] Tableau 2 -> Tableau 4 (Sequence of 9)
+[469] Tableau 4 -> Tableau 0 (Sequence of 9)
+[470] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[471] Tableau 2 -> Tableau 4 (Sequence of 9)
+[472] Tableau 4 -> Tableau 0 (Sequence of 9)
+[473] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[474] Tableau 2 -> Tableau 4 (Sequence of 9)
+[475] Tableau 4 -> Tableau 0 (Sequence of 9)
+[476] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[477] Tableau 2 -> Tableau 4 (Sequence of 9)
+[478] Tableau 4 -> Tableau 0 (Sequence of 9)
+[479] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[480] Tableau 2 -> Tableau 4 (Sequence of 9)
+[481] Tableau 4 -> Tableau 0 (Sequence of 9)
+[482] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[483] Tableau 2 -> Tableau 4 (Sequence of 9)
+[484] Tableau 4 -> Tableau 0 (Sequence of 9)
+[485] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[486] Tableau 2 -> Tableau 4 (Sequence of 9)
+[487] Tableau 4 -> Tableau 0 (Sequence of 9)
+[488] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[489] Tableau 2 -> Tableau 4 (Sequence of 9)
+[490] Tableau 4 -> Tableau 0 (Sequence of 9)
+[491] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[492] Tableau 2 -> Tableau 4 (Sequence of 9)
+[493] Tableau 4 -> Tableau 0 (Sequence of 9)
+[494] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[495] Tableau 2 -> Tableau 4 (Sequence of 9)
+[496] Tableau 4 -> Tableau 0 (Sequence of 9)
+[497] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[498] Tableau 2 -> Tableau 4 (Sequence of 9)
+[499] Tableau 4 -> Tableau 0 (Sequence of 9)
+[500] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[501] Tableau 2 -> Tableau 4 (Sequence of 9)
+[502] Tableau 4 -> Tableau 0 (Sequence of 9)
+[503] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[504] Tableau 2 -> Tableau 4 (Sequence of 9)
+[505] Tableau 4 -> Tableau 0 (Sequence of 9)
+[506] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[507] Tableau 2 -> Tableau 4 (Sequence of 9)
+[508] Tableau 4 -> Tableau 0 (Sequence of 9)
+[509] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[510] Tableau 2 -> Tableau 4 (Sequence of 9)
+[511] Tableau 4 -> Tableau 0 (Sequence of 9)
+[512] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[513] Tableau 2 -> Tableau 4 (Sequence of 9)
+[514] Tableau 4 -> Tableau 0 (Sequence of 9)
+[515] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[516] Tableau 2 -> Tableau 4 (Sequence of 9)
+[517] Tableau 4 -> Tableau 0 (Sequence of 9)
+[518] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[519] Tableau 2 -> Tableau 4 (Sequence of 9)
+[520] Tableau 4 -> Tableau 0 (Sequence of 9)
+[521] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[522] Tableau 2 -> Tableau 4 (Sequence of 9)
+[523] Tableau 4 -> Tableau 0 (Sequence of 9)
+[524] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[525] Tableau 2 -> Tableau 4 (Sequence of 9)
+[526] Tableau 4 -> Tableau 0 (Sequence of 9)
+[527] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[528] Tableau 2 -> Tableau 4 (Sequence of 9)
+[529] Tableau 4 -> Tableau 0 (Sequence of 9)
+[530] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[531] Tableau 2 -> Tableau 4 (Sequence of 9)
+[532] Tableau 4 -> Tableau 0 (Sequence of 9)
+[533] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[534] Tableau 2 -> Tableau 4 (Sequence of 9)
+[535] Tableau 4 -> Tableau 0 (Sequence of 9)
+[536] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[537] Tableau 2 -> Tableau 4 (Sequence of 9)
+[538] Tableau 4 -> Tableau 0 (Sequence of 9)
+[539] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[540] Tableau 2 -> Tableau 4 (Sequence of 9)
+[541] Tableau 4 -> Tableau 0 (Sequence of 9)
+[542] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[543] Tableau 2 -> Tableau 4 (Sequence of 9)
+[544] Tableau 4 -> Tableau 0 (Sequence of 9)
+[545] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[546] Tableau 2 -> Tableau 4 (Sequence of 9)
+[547] Tableau 4 -> Tableau 0 (Sequence of 9)
+[548] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[549] Tableau 2 -> Tableau 4 (Sequence of 9)
+[550] Tableau 4 -> Tableau 0 (Sequence of 9)
+[551] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[552] Tableau 2 -> Tableau 4 (Sequence of 9)
+[553] Tableau 4 -> Tableau 0 (Sequence of 9)
+[554] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[555] Tableau 2 -> Tableau 4 (Sequence of 9)
+[556] Tableau 4 -> Tableau 0 (Sequence of 9)
+[557] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[558] Tableau 2 -> Tableau 4 (Sequence of 9)
+[559] Tableau 4 -> Tableau 0 (Sequence of 9)
+[560] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[561] Tableau 2 -> Tableau 4 (Sequence of 9)
+[562] Tableau 4 -> Tableau 0 (Sequence of 9)
+[563] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[564] Tableau 2 -> Tableau 4 (Sequence of 9)
+[565] Tableau 4 -> Tableau 0 (Sequence of 9)
+[566] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[567] Tableau 2 -> Tableau 4 (Sequence of 9)
+[568] Tableau 4 -> Tableau 0 (Sequence of 9)
+[569] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[570] Tableau 2 -> Tableau 4 (Sequence of 9)
+[571] Tableau 4 -> Tableau 0 (Sequence of 9)
+[572] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[573] Tableau 2 -> Tableau 4 (Sequence of 9)
+[574] Tableau 4 -> Tableau 0 (Sequence of 9)
+[575] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[576] Tableau 2 -> Tableau 4 (Sequence of 9)
+[577] Tableau 4 -> Tableau 0 (Sequence of 9)
+[578] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[579] Tableau 2 -> Tableau 4 (Sequence of 9)
+[580] Tableau 4 -> Tableau 0 (Sequence of 9)
+[581] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[582] Tableau 2 -> Tableau 4 (Sequence of 9)
+[583] Tableau 4 -> Tableau 0 (Sequence of 9)
+[584] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[585] Tableau 2 -> Tableau 4 (Sequence of 9)
+[586] Tableau 4 -> Tableau 0 (Sequence of 9)
+[587] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[588] Tableau 2 -> Tableau 4 (Sequence of 9)
+[589] Tableau 4 -> Tableau 0 (Sequence of 9)
+[590] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[591] Tableau 2 -> Tableau 4 (Sequence of 9)
+[592] Tableau 4 -> Tableau 0 (Sequence of 9)
+[593] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[594] Tableau 2 -> Tableau 4 (Sequence of 9)
+[595] Tableau 4 -> Tableau 0 (Sequence of 9)
+[596] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[597] Tableau 2 -> Tableau 4 (Sequence of 9)
+[598] Tableau 4 -> Tableau 0 (Sequence of 9)
+[599] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[600] Tableau 2 -> Tableau 4 (Sequence of 9)
+[601] Tableau 4 -> Tableau 0 (Sequence of 9)
+[602] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[603] Tableau 2 -> Tableau 4 (Sequence of 9)
+[604] Tableau 4 -> Tableau 0 (Sequence of 9)
+[605] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[606] Tableau 2 -> Tableau 4 (Sequence of 9)
+[607] Tableau 4 -> Tableau 0 (Sequence of 9)
+[608] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[609] Tableau 2 -> Tableau 4 (Sequence of 9)
+[610] Tableau 4 -> Tableau 0 (Sequence of 9)
+[611] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[612] Tableau 2 -> Tableau 4 (Sequence of 9)
+[613] Tableau 4 -> Tableau 0 (Sequence of 9)
+[614] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[615] Tableau 2 -> Tableau 4 (Sequence of 9)
+[616] Tableau 4 -> Tableau 0 (Sequence of 9)
+[617] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[618] Tableau 2 -> Tableau 4 (Sequence of 9)
+[619] Tableau 4 -> Tableau 0 (Sequence of 9)
+[620] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[621] Tableau 2 -> Tableau 4 (Sequence of 9)
+[622] Tableau 4 -> Tableau 0 (Sequence of 9)
+[623] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[624] Tableau 2 -> Tableau 4 (Sequence of 9)
+[625] Tableau 4 -> Tableau 0 (Sequence of 9)
+[626] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[627] Tableau 2 -> Tableau 4 (Sequence of 9)
+[628] Tableau 4 -> Tableau 0 (Sequence of 9)
+[629] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[630] Tableau 2 -> Tableau 4 (Sequence of 9)
+[631] Tableau 4 -> Tableau 0 (Sequence of 9)
+[632] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[633] Tableau 2 -> Tableau 4 (Sequence of 9)
+[634] Tableau 4 -> Tableau 0 (Sequence of 9)
+[635] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[636] Tableau 2 -> Tableau 4 (Sequence of 9)
+[637] Tableau 4 -> Tableau 0 (Sequence of 9)
+[638] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[639] Tableau 2 -> Tableau 4 (Sequence of 9)
+[640] Tableau 4 -> Tableau 0 (Sequence of 9)
+[641] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[642] Tableau 2 -> Tableau 4 (Sequence of 9)
+[643] Tableau 4 -> Tableau 0 (Sequence of 9)
+[644] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[645] Tableau 2 -> Tableau 4 (Sequence of 9)
+[646] Tableau 4 -> Tableau 0 (Sequence of 9)
+[647] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[648] Tableau 2 -> Tableau 4 (Sequence of 9)
+[649] Tableau 4 -> Tableau 0 (Sequence of 9)
+[650] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[651] Tableau 2 -> Tableau 4 (Sequence of 9)
+[652] Tableau 4 -> Tableau 0 (Sequence of 9)
+[653] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[654] Tableau 2 -> Tableau 4 (Sequence of 9)
+[655] Tableau 4 -> Tableau 0 (Sequence of 9)
+[656] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[657] Tableau 2 -> Tableau 4 (Sequence of 9)
+[658] Tableau 4 -> Tableau 0 (Sequence of 9)
+[659] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[660] Tableau 2 -> Tableau 4 (Sequence of 9)
+[661] Tableau 4 -> Tableau 0 (Sequence of 9)
+[662] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[663] Tableau 2 -> Tableau 4 (Sequence of 9)
+[664] Tableau 4 -> Tableau 0 (Sequence of 9)
+[665] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[666] Tableau 2 -> Tableau 4 (Sequence of 9)
+[667] Tableau 4 -> Tableau 0 (Sequence of 9)
+[668] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[669] Tableau 2 -> Tableau 4 (Sequence of 9)
+[670] Tableau 4 -> Tableau 0 (Sequence of 9)
+[671] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[672] Tableau 2 -> Tableau 4 (Sequence of 9)
+[673] Tableau 4 -> Tableau 0 (Sequence of 9)
+[674] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[675] Tableau 2 -> Tableau 4 (Sequence of 9)
+[676] Tableau 4 -> Tableau 0 (Sequence of 9)
+[677] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[678] Tableau 2 -> Tableau 4 (Sequence of 9)
+[679] Tableau 4 -> Tableau 0 (Sequence of 9)
+[680] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[681] Tableau 2 -> Tableau 4 (Sequence of 9)
+[682] Tableau 4 -> Tableau 0 (Sequence of 9)
+[683] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[684] Tableau 2 -> Tableau 4 (Sequence of 9)
+[685] Tableau 4 -> Tableau 0 (Sequence of 9)
+[686] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[687] Tableau 2 -> Tableau 4 (Sequence of 9)
+[688] Tableau 4 -> Tableau 0 (Sequence of 9)
+[689] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[690] Tableau 2 -> Tableau 4 (Sequence of 9)
+[691] Tableau 4 -> Tableau 0 (Sequence of 9)
+[692] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[693] Tableau 2 -> Tableau 4 (Sequence of 9)
+[694] Tableau 4 -> Tableau 0 (Sequence of 9)
+[695] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[696] Tableau 2 -> Tableau 4 (Sequence of 9)
+[697] Tableau 4 -> Tableau 0 (Sequence of 9)
+[698] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[699] Tableau 2 -> Tableau 4 (Sequence of 9)
+[700] Tableau 4 -> Tableau 0 (Sequence of 9)
+[701] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[702] Tableau 2 -> Tableau 4 (Sequence of 9)
+[703] Tableau 4 -> Tableau 0 (Sequence of 9)
+[704] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[705] Tableau 2 -> Tableau 4 (Sequence of 9)
+[706] Tableau 4 -> Tableau 0 (Sequence of 9)
+[707] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[708] Tableau 2 -> Tableau 4 (Sequence of 9)
+[709] Tableau 4 -> Tableau 0 (Sequence of 9)
+[710] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[711] Tableau 2 -> Tableau 4 (Sequence of 9)
+[712] Tableau 4 -> Tableau 0 (Sequence of 9)
+[713] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[714] Tableau 2 -> Tableau 4 (Sequence of 9)
+[715] Tableau 4 -> Tableau 0 (Sequence of 9)
+[716] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[717] Tableau 2 -> Tableau 4 (Sequence of 9)
+[718] Tableau 4 -> Tableau 0 (Sequence of 9)
+[719] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[720] Tableau 2 -> Tableau 4 (Sequence of 9)
+[721] Tableau 4 -> Tableau 0 (Sequence of 9)
+[722] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[723] Tableau 2 -> Tableau 4 (Sequence of 9)
+[724] Tableau 4 -> Tableau 0 (Sequence of 9)
+[725] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[726] Tableau 2 -> Tableau 4 (Sequence of 9)
+[727] Tableau 4 -> Tableau 0 (Sequence of 9)
+[728] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[729] Tableau 2 -> Tableau 4 (Sequence of 9)
+[730] Tableau 4 -> Tableau 0 (Sequence of 9)
+[731] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[732] Tableau 2 -> Tableau 4 (Sequence of 9)
+[733] Tableau 4 -> Tableau 0 (Sequence of 9)
+[734] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[735] Tableau 2 -> Tableau 4 (Sequence of 9)
+[736] Tableau 4 -> Tableau 0 (Sequence of 9)
+[737] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[738] Tableau 2 -> Tableau 4 (Sequence of 9)
+[739] Tableau 4 -> Tableau 0 (Sequence of 9)
+[740] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[741] Tableau 2 -> Tableau 4 (Sequence of 9)
+[742] Tableau 4 -> Tableau 0 (Sequence of 9)
+[743] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[744] Tableau 2 -> Tableau 4 (Sequence of 9)
+[745] Tableau 4 -> Tableau 0 (Sequence of 9)
+[746] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[747] Tableau 2 -> Tableau 4 (Sequence of 9)
+[748] Tableau 4 -> Tableau 0 (Sequence of 9)
+[749] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[750] Tableau 2 -> Tableau 4 (Sequence of 9)
+[751] Tableau 4 -> Tableau 0 (Sequence of 9)
+[752] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[753] Tableau 2 -> Tableau 4 (Sequence of 9)
+[754] Tableau 4 -> Tableau 0 (Sequence of 9)
+[755] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[756] Tableau 2 -> Tableau 4 (Sequence of 9)
+[757] Tableau 4 -> Tableau 0 (Sequence of 9)
+[758] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[759] Tableau 2 -> Tableau 4 (Sequence of 9)
+[760] Tableau 4 -> Tableau 0 (Sequence of 9)
+[761] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[762] Tableau 2 -> Tableau 4 (Sequence of 9)
+[763] Tableau 4 -> Tableau 0 (Sequence of 9)
+[764] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[765] Tableau 2 -> Tableau 4 (Sequence of 9)
+[766] Tableau 4 -> Tableau 0 (Sequence of 9)
+[767] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[768] Tableau 2 -> Tableau 4 (Sequence of 9)
+[769] Tableau 4 -> Tableau 0 (Sequence of 9)
+[770] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[771] Tableau 2 -> Tableau 4 (Sequence of 9)
+[772] Tableau 4 -> Tableau 0 (Sequence of 9)
+[773] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[774] Tableau 2 -> Tableau 4 (Sequence of 9)
+[775] Tableau 4 -> Tableau 0 (Sequence of 9)
+[776] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[777] Tableau 2 -> Tableau 4 (Sequence of 9)
+[778] Tableau 4 -> Tableau 0 (Sequence of 9)
+[779] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[780] Tableau 2 -> Tableau 4 (Sequence of 9)
+[781] Tableau 4 -> Tableau 0 (Sequence of 9)
+[782] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[783] Tableau 2 -> Tableau 4 (Sequence of 9)
+[784] Tableau 4 -> Tableau 0 (Sequence of 9)
+[785] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[786] Tableau 2 -> Tableau 4 (Sequence of 9)
+[787] Tableau 4 -> Tableau 0 (Sequence of 9)
+[788] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[789] Tableau 2 -> Tableau 4 (Sequence of 9)
+[790] Tableau 4 -> Tableau 0 (Sequence of 9)
+[791] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[792] Tableau 2 -> Tableau 4 (Sequence of 9)
+[793] Tableau 4 -> Tableau 0 (Sequence of 9)
+[794] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[795] Tableau 2 -> Tableau 4 (Sequence of 9)
+[796] Tableau 4 -> Tableau 0 (Sequence of 9)
+[797] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[798] Tableau 2 -> Tableau 4 (Sequence of 9)
+[799] Tableau 4 -> Tableau 0 (Sequence of 9)
+[800] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[801] Tableau 2 -> Tableau 4 (Sequence of 9)
+[802] Tableau 4 -> Tableau 0 (Sequence of 9)
+[803] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[804] Tableau 2 -> Tableau 4 (Sequence of 9)
+[805] Tableau 4 -> Tableau 0 (Sequence of 9)
+[806] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[807] Tableau 2 -> Tableau 4 (Sequence of 9)
+[808] Tableau 4 -> Tableau 0 (Sequence of 9)
+[809] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[810] Tableau 2 -> Tableau 4 (Sequence of 9)
+[811] Tableau 4 -> Tableau 0 (Sequence of 9)
+[812] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[813] Tableau 2 -> Tableau 4 (Sequence of 9)
+[814] Tableau 4 -> Tableau 0 (Sequence of 9)
+[815] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[816] Tableau 2 -> Tableau 4 (Sequence of 9)
+[817] Tableau 4 -> Tableau 0 (Sequence of 9)
+[818] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[819] Tableau 2 -> Tableau 4 (Sequence of 9)
+[820] Tableau 4 -> Tableau 0 (Sequence of 9)
+[821] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[822] Tableau 2 -> Tableau 4 (Sequence of 9)
+[823] Tableau 4 -> Tableau 0 (Sequence of 9)
+[824] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[825] Tableau 2 -> Tableau 4 (Sequence of 9)
+[826] Tableau 4 -> Tableau 0 (Sequence of 9)
+[827] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[828] Tableau 2 -> Tableau 4 (Sequence of 9)
+[829] Tableau 4 -> Tableau 0 (Sequence of 9)
+[830] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[831] Tableau 2 -> Tableau 4 (Sequence of 9)
+[832] Tableau 4 -> Tableau 0 (Sequence of 9)
+[833] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[834] Tableau 2 -> Tableau 4 (Sequence of 9)
+[835] Tableau 4 -> Tableau 0 (Sequence of 9)
+[836] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[837] Tableau 2 -> Tableau 4 (Sequence of 9)
+[838] Tableau 4 -> Tableau 0 (Sequence of 9)
+[839] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[840] Tableau 2 -> Tableau 4 (Sequence of 9)
+[841] Tableau 4 -> Tableau 0 (Sequence of 9)
+[842] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[843] Tableau 2 -> Tableau 4 (Sequence of 9)
+[844] Tableau 4 -> Tableau 0 (Sequence of 9)
+[845] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[846] Tableau 2 -> Tableau 4 (Sequence of 9)
+[847] Tableau 4 -> Tableau 0 (Sequence of 9)
+[848] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[849] Tableau 2 -> Tableau 4 (Sequence of 9)
+[850] Tableau 4 -> Tableau 0 (Sequence of 9)
+[851] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[852] Tableau 2 -> Tableau 4 (Sequence of 9)
+[853] Tableau 4 -> Tableau 0 (Sequence of 9)
+[854] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[855] Tableau 2 -> Tableau 4 (Sequence of 9)
+[856] Tableau 4 -> Tableau 0 (Sequence of 9)
+[857] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[858] Tableau 2 -> Tableau 4 (Sequence of 9)
+[859] Tableau 4 -> Tableau 0 (Sequence of 9)
+[860] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[861] Tableau 2 -> Tableau 4 (Sequence of 9)
+[862] Tableau 4 -> Tableau 0 (Sequence of 9)
+[863] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[864] Tableau 2 -> Tableau 4 (Sequence of 9)
+[865] Tableau 4 -> Tableau 0 (Sequence of 9)
+[866] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[867] Tableau 2 -> Tableau 4 (Sequence of 9)
+[868] Tableau 4 -> Tableau 0 (Sequence of 9)
+[869] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[870] Tableau 2 -> Tableau 4 (Sequence of 9)
+[871] Tableau 4 -> Tableau 0 (Sequence of 9)
+[872] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[873] Tableau 2 -> Tableau 4 (Sequence of 9)
+[874] Tableau 4 -> Tableau 0 (Sequence of 9)
+[875] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[876] Tableau 2 -> Tableau 4 (Sequence of 9)
+[877] Tableau 4 -> Tableau 0 (Sequence of 9)
+[878] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[879] Tableau 2 -> Tableau 4 (Sequence of 9)
+[880] Tableau 4 -> Tableau 0 (Sequence of 9)
+[881] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[882] Tableau 2 -> Tableau 4 (Sequence of 9)
+[883] Tableau 4 -> Tableau 0 (Sequence of 9)
+[884] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[885] Tableau 2 -> Tableau 4 (Sequence of 9)
+[886] Tableau 4 -> Tableau 0 (Sequence of 9)
+[887] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[888] Tableau 2 -> Tableau 4 (Sequence of 9)
+[889] Tableau 4 -> Tableau 0 (Sequence of 9)
+[890] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[891] Tableau 2 -> Tableau 4 (Sequence of 9)
+[892] Tableau 4 -> Tableau 0 (Sequence of 9)
+[893] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[894] Tableau 2 -> Tableau 4 (Sequence of 9)
+[895] Tableau 4 -> Tableau 0 (Sequence of 9)
+[896] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[897] Tableau 2 -> Tableau 4 (Sequence of 9)
+[898] Tableau 4 -> Tableau 0 (Sequence of 9)
+[899] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[900] Tableau 2 -> Tableau 4 (Sequence of 9)
+[901] Tableau 4 -> Tableau 0 (Sequence of 9)
+[902] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[903] Tableau 2 -> Tableau 4 (Sequence of 9)
+[904] Tableau 4 -> Tableau 0 (Sequence of 9)
+[905] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[906] Tableau 2 -> Tableau 4 (Sequence of 9)
+[907] Tableau 4 -> Tableau 0 (Sequence of 9)
+[908] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[909] Tableau 2 -> Tableau 4 (Sequence of 9)
+[910] Tableau 4 -> Tableau 0 (Sequence of 9)
+[911] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[912] Tableau 2 -> Tableau 4 (Sequence of 9)
+[913] Tableau 4 -> Tableau 0 (Sequence of 9)
+[914] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[915] Tableau 2 -> Tableau 4 (Sequence of 9)
+[916] Tableau 4 -> Tableau 0 (Sequence of 9)
+[917] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[918] Tableau 2 -> Tableau 4 (Sequence of 9)
+[919] Tableau 4 -> Tableau 0 (Sequence of 9)
+[920] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[921] Tableau 2 -> Tableau 4 (Sequence of 9)
+[922] Tableau 4 -> Tableau 0 (Sequence of 9)
+[923] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[924] Tableau 2 -> Tableau 4 (Sequence of 9)
+[925] Tableau 4 -> Tableau 0 (Sequence of 9)
+[926] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[927] Tableau 2 -> Tableau 4 (Sequence of 9)
+[928] Tableau 4 -> Tableau 0 (Sequence of 9)
+[929] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[930] Tableau 2 -> Tableau 4 (Sequence of 9)
+[931] Tableau 4 -> Tableau 0 (Sequence of 9)
+[932] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[933] Tableau 2 -> Tableau 4 (Sequence of 9)
+[934] Tableau 4 -> Tableau 0 (Sequence of 9)
+[935] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[936] Tableau 2 -> Tableau 4 (Sequence of 9)
+[937] Tableau 4 -> Tableau 0 (Sequence of 9)
+[938] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[939] Tableau 2 -> Tableau 4 (Sequence of 9)
+[940] Tableau 4 -> Tableau 0 (Sequence of 9)
+[941] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[942] Tableau 2 -> Tableau 4 (Sequence of 9)
+[943] Tableau 4 -> Tableau 0 (Sequence of 9)
+[944] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[945] Tableau 2 -> Tableau 4 (Sequence of 9)
+[946] Tableau 4 -> Tableau 0 (Sequence of 9)
+[947] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[948] Tableau 2 -> Tableau 4 (Sequence of 9)
+[949] Tableau 4 -> Tableau 0 (Sequence of 9)
+[950] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[951] Tableau 2 -> Tableau 4 (Sequence of 9)
+[952] Tableau 4 -> Tableau 0 (Sequence of 9)
+[953] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[954] Tableau 2 -> Tableau 4 (Sequence of 9)
+[955] Tableau 4 -> Tableau 0 (Sequence of 9)
+[956] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[957] Tableau 2 -> Tableau 4 (Sequence of 9)
+[958] Tableau 4 -> Tableau 0 (Sequence of 9)
+[959] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[960] Tableau 2 -> Tableau 4 (Sequence of 9)
+[961] Tableau 4 -> Tableau 0 (Sequence of 9)
+[962] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[963] Tableau 2 -> Tableau 4 (Sequence of 9)
+[964] Tableau 4 -> Tableau 0 (Sequence of 9)
+[965] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[966] Tableau 2 -> Tableau 4 (Sequence of 9)
+[967] Tableau 4 -> Tableau 0 (Sequence of 9)
+[968] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[969] Tableau 2 -> Tableau 4 (Sequence of 9)
+[970] Tableau 4 -> Tableau 0 (Sequence of 9)
+[971] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[972] Tableau 2 -> Tableau 4 (Sequence of 9)
+[973] Tableau 4 -> Tableau 0 (Sequence of 9)
+[974] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[975] Tableau 2 -> Tableau 4 (Sequence of 9)
+[976] Tableau 4 -> Tableau 0 (Sequence of 9)
+[977] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[978] Tableau 2 -> Tableau 4 (Sequence of 9)
+[979] Tableau 4 -> Tableau 0 (Sequence of 9)
+[980] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[981] Tableau 2 -> Tableau 4 (Sequence of 9)
+[982] Tableau 4 -> Tableau 0 (Sequence of 9)
+[983] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[984] Tableau 2 -> Tableau 4 (Sequence of 9)
+[985] Tableau 4 -> Tableau 0 (Sequence of 9)
+[986] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[987] Tableau 2 -> Tableau 4 (Sequence of 9)
+[988] Tableau 4 -> Tableau 0 (Sequence of 9)
+[989] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[990] Tableau 2 -> Tableau 4 (Sequence of 9)
+[991] Tableau 4 -> Tableau 0 (Sequence of 9)
+[992] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[993] Tableau 2 -> Tableau 4 (Sequence of 9)
+[994] Tableau 4 -> Tableau 0 (Sequence of 9)
+[995] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[996] Tableau 2 -> Tableau 4 (Sequence of 9)
+[997] Tableau 4 -> Tableau 0 (Sequence of 9)
+[998] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[999] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1000] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1001] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1002] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1003] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1004] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1005] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1006] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1007] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1008] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1009] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1010] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1011] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1012] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1013] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1014] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1015] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1016] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1017] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1018] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1019] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1020] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1021] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1022] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1023] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1024] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1025] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1026] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1027] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1028] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1029] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1030] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1031] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1032] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1033] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1034] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1035] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1036] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1037] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1038] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1039] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1040] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1041] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1042] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1043] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1044] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1045] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1046] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1047] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1048] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1049] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1050] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1051] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1052] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1053] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1054] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1055] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1056] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1057] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1058] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1059] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1060] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1061] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1062] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1063] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1064] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1065] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1066] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1067] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1068] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1069] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1070] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1071] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1072] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1073] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1074] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1075] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1076] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1077] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1078] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1079] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1080] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1081] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1082] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1083] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1084] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1085] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1086] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1087] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1088] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1089] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1090] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1091] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1092] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1093] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1094] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1095] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1096] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1097] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1098] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1099] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1100] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1101] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1102] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1103] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1104] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1105] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1106] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1107] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1108] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1109] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1110] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1111] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1112] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1113] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1114] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1115] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1116] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1117] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1118] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1119] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1120] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1121] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1122] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1123] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1124] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1125] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1126] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1127] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1128] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1129] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1130] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1131] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1132] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1133] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1134] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1135] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1136] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1137] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1138] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1139] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1140] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1141] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1142] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1143] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1144] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1145] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1146] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1147] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1148] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1149] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1150] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1151] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1152] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1153] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1154] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1155] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1156] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1157] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1158] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1159] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1160] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1161] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1162] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1163] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1164] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1165] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1166] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1167] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1168] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1169] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1170] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1171] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1172] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1173] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1174] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1175] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1176] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1177] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1178] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1179] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1180] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1181] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1182] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1183] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1184] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1185] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1186] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1187] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1188] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1189] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1190] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1191] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1192] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1193] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1194] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1195] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1196] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1197] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1198] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1199] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1200] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1201] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1202] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1203] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1204] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1205] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1206] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1207] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1208] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1209] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1210] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1211] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1212] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1213] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1214] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1215] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1216] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1217] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1218] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1219] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1220] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1221] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1222] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1223] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1224] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1225] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1226] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1227] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1228] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1229] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1230] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1231] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1232] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1233] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1234] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1235] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1236] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1237] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1238] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1239] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1240] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1241] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1242] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1243] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1244] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1245] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1246] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1247] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1248] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1249] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1250] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1251] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1252] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1253] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1254] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1255] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1256] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1257] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1258] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1259] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1260] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1261] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1262] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1263] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1264] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1265] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1266] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1267] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1268] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1269] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1270] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1271] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1272] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1273] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1274] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1275] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1276] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1277] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1278] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1279] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1280] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1281] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1282] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1283] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1284] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1285] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1286] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1287] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1288] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1289] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1290] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1291] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1292] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1293] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1294] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1295] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1296] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1297] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1298] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1299] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1300] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1301] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1302] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1303] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1304] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1305] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1306] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1307] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1308] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1309] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1310] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1311] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1312] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1313] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1314] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1315] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1316] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1317] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1318] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1319] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1320] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1321] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1322] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1323] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1324] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1325] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1326] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1327] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1328] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1329] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1330] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1331] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1332] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1333] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1334] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1335] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1336] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1337] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1338] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1339] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1340] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1341] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1342] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1343] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1344] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1345] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1346] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1347] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1348] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1349] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1350] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1351] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1352] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1353] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1354] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1355] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1356] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1357] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1358] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1359] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1360] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1361] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1362] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1363] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1364] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1365] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1366] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1367] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1368] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1369] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1370] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1371] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1372] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1373] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1374] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1375] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1376] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1377] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1378] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1379] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1380] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1381] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1382] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1383] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1384] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1385] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1386] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1387] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1388] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1389] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1390] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1391] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1392] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1393] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1394] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1395] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1396] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1397] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1398] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1399] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1400] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1401] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1402] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1403] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1404] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1405] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1406] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1407] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1408] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1409] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1410] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1411] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1412] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1413] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1414] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1415] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1416] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1417] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1418] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1419] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1420] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1421] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1422] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1423] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1424] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1425] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1426] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1427] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1428] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1429] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1430] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1431] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1432] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1433] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1434] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1435] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1436] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1437] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1438] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1439] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1440] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1441] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1442] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1443] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1444] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1445] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1446] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1447] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1448] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1449] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1450] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1451] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1452] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1453] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1454] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1455] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1456] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1457] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1458] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1459] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1460] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1461] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1462] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1463] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1464] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1465] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1466] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1467] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1468] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1469] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1470] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1471] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1472] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1473] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1474] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1475] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1476] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1477] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1478] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1479] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1480] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1481] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1482] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1483] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1484] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1485] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1486] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1487] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1488] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1489] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1490] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1491] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1492] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1493] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1494] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1495] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1496] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1497] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1498] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1499] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1500] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1501] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1502] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1503] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1504] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1505] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1506] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1507] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1508] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1509] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1510] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1511] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1512] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1513] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1514] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1515] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1516] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1517] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1518] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1519] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1520] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1521] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1522] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1523] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1524] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1525] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1526] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1527] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1528] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1529] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1530] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1531] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1532] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1533] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1534] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1535] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1536] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1537] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1538] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1539] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1540] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1541] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1542] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1543] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1544] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1545] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1546] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1547] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1548] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1549] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1550] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1551] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1552] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1553] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1554] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1555] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1556] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1557] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1558] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1559] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1560] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1561] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1562] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1563] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1564] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1565] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1566] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1567] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1568] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1569] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1570] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1571] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1572] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1573] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1574] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1575] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1576] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1577] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1578] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1579] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1580] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1581] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1582] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1583] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1584] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1585] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1586] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1587] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1588] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1589] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1590] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1591] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1592] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1593] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1594] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1595] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1596] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1597] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1598] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1599] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1600] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1601] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1602] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1603] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1604] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1605] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1606] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1607] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1608] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1609] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1610] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1611] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1612] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1613] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1614] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1615] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1616] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1617] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1618] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1619] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1620] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1621] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1622] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1623] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1624] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1625] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1626] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1627] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1628] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1629] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1630] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1631] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1632] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1633] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1634] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1635] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1636] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1637] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1638] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1639] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1640] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1641] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1642] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1643] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1644] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1645] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1646] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1647] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1648] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1649] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1650] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1651] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1652] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1653] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1654] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1655] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1656] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1657] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1658] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1659] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1660] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1661] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1662] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1663] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1664] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1665] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1666] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1667] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1668] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1669] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1670] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1671] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1672] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1673] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1674] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1675] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1676] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1677] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1678] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1679] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1680] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1681] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1682] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1683] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1684] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1685] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1686] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1687] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1688] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1689] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1690] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1691] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1692] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1693] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1694] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1695] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1696] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1697] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1698] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1699] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1700] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1701] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1702] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1703] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1704] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1705] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1706] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1707] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1708] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1709] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1710] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1711] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1712] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1713] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1714] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1715] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1716] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1717] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1718] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1719] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1720] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1721] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1722] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1723] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1724] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1725] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1726] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1727] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1728] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1729] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1730] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1731] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1732] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1733] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1734] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1735] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1736] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1737] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1738] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1739] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1740] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1741] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1742] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1743] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1744] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1745] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1746] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1747] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1748] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1749] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1750] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1751] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1752] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1753] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1754] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1755] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1756] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1757] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1758] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1759] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1760] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1761] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1762] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1763] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1764] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1765] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1766] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1767] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1768] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1769] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1770] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1771] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1772] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1773] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1774] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1775] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1776] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1777] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1778] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1779] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1780] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1781] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1782] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1783] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1784] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1785] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1786] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1787] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1788] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1789] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1790] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1791] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1792] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1793] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1794] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1795] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1796] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1797] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1798] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1799] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1800] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1801] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1802] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1803] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1804] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1805] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1806] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1807] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1808] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1809] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1810] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1811] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1812] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1813] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1814] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1815] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1816] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1817] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1818] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1819] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1820] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1821] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1822] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1823] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1824] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1825] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1826] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1827] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1828] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1829] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1830] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1831] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1832] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1833] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1834] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1835] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1836] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1837] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1838] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1839] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1840] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1841] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1842] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1843] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1844] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1845] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1846] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1847] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1848] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1849] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1850] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1851] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1852] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1853] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1854] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1855] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1856] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1857] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1858] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1859] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1860] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1861] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1862] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1863] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1864] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1865] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1866] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1867] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1868] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1869] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1870] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1871] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1872] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1873] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1874] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1875] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1876] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1877] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1878] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1879] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1880] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1881] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1882] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1883] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1884] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1885] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1886] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1887] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1888] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1889] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1890] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1891] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1892] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1893] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1894] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1895] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1896] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1897] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1898] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1899] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1900] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1901] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1902] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1903] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1904] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1905] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1906] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1907] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1908] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1909] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1910] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1911] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1912] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1913] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1914] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1915] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1916] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1917] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1918] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1919] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1920] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1921] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1922] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1923] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1924] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1925] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1926] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1927] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1928] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1929] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1930] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1931] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1932] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1933] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1934] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1935] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1936] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1937] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1938] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1939] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1940] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1941] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1942] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1943] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1944] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1945] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1946] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1947] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1948] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1949] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1950] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1951] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1952] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1953] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1954] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1955] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1956] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1957] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1958] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1959] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1960] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1961] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1962] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1963] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1964] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1965] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1966] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1967] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1968] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1969] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1970] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1971] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1972] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1973] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1974] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1975] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1976] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1977] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1978] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1979] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1980] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1981] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1982] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1983] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1984] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1985] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1986] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1987] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1988] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1989] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1990] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1991] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1992] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1993] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1994] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1995] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1996] Tableau 4 -> Tableau 0 (Sequence of 9)
+[1997] Tableau 0 -> Tableau 2 (Sequence of 9)
+[BLOCKED] Tableau 2 -> Tableau 0: Preventing direct cycle reversal.
+[1998] Tableau 2 -> Tableau 4 (Sequence of 9)
+[1999] Tableau 4 -> Tableau 0 (Sequence of 9)
+[2000] Tableau 0 -> Tableau 2 (Sequence of 9)
+
+❌ LOSS: Move cap reached (2000). Likely cycle detected.
+
+❌ LOSS: Game blocked. No moves possible. Ended after 2000 moves.

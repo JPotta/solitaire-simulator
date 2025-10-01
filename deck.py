@@ -28,8 +28,12 @@ class Deck:
 
     # Draw next card
     def draw(self, n=1):
-        drawn_cards = self.cards[:n]
-        self.cards = self.cards[n:]
+        """Draw n cards from the top of the deck (end of list)."""
+        if n <= 0 or not self.cards:
+            return []
+        n = min(n, len(self.cards))
+        drawn_cards = self.cards[-n:]
+        self.cards = self.cards[:-n]
         return drawn_cards
 
 

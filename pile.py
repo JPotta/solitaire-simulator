@@ -20,8 +20,14 @@ class Pile:
 
     # Draw card from pile
     def draw(self, n=1):
-        drawn = self.cards[:n]
-        self.cards = self.cards[n:]
+        """Remove and return n cards from the top of the pile (end of list).
+        Preserves the original order of the drawn cards.
+        """
+        if n <= 0 or not self.cards:
+            return []
+        n = min(n, len(self.cards))
+        drawn = self.cards[-n:]
+        self.cards = self.cards[:-n]
         return drawn
     
     # Peek at next card
